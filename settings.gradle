@@ -1,2 +1,3 @@
 rootProject.name = "MicroBlogging"
 include ':app'
+include ':libconduit'
